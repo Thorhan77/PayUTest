@@ -1,0 +1,7 @@
+{	
+	"payment_method": {
+    "credit_card_cvv": "098",
+    "token": "8b02f249-448b-4606-b422-934ce45c921c",
+    "type": "tokenized"
+  }
+}

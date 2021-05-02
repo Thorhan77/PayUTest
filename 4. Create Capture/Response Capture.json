@@ -1,0 +1,28 @@
+{
+    "id": "fa1931e1-fe21-4891-bbb1-255ceb77e48b",
+    "created": "1619979956076",
+    "result": {
+        "status": "Succeed"
+    },
+    "amount": 4500,
+    "provider_data": {
+        "provider_name": "MockProcessor",
+        "response_code": "0",
+        "description": "Captured.",
+        "raw_response": "{\"OID\":\"44421d0e-b146-4d01-8f2b-eec06b5a17b3\",\"AUTH_CODE\":\"44421\",\"RETURN_MESSAGE\":\"Captured.\",\"TRANSID\":\"eabcf355-d294-48d8-a5ad-6ed51cb68299_33bb5dba-b94b-4fba-a1a4-15ffaf5cd297_Capture\",\"STATUS\":\"SUCCESS\",\"AMOUNT\":\"45\",\"DATE\":\"1619979956076\",\"RETURN_CODE\":\"0\",\"CURRENCY\":\"USD\"}",
+        "authorization_code": "44421",
+        "transaction_id": "eabcf355-d294-48d8-a5ad-6ed51cb68299_33bb5dba-b94b-4fba-a1a4-15ffaf5cd297_Capture",
+        "external_id": "44421d0e-b146-4d01-8f2b-eec06b5a17b3"
+    },
+    "provider_configuration": {
+        "id": "993761e6-5e90-42d1-8f70-09769139a528",
+        "name": "MockTestServices",
+        "description": "MockTestServices",
+        "created": "1619975246163",
+        "modified": "1619975246163",
+        "account_id": "33bb5dba-b94b-4fba-a1a4-15ffaf5cd297",
+        "provider_id": "c87ee096-e1a4-4502-9194-9e9b6e867bf0",
+        "type": "cc_processor",
+        "href": "https://api.paymentsos.com/accounts/33bb5dba-b94b-4fba-a1a4-15ffaf5cd297/provider-configurations/993761e6-5e90-42d1-8f70-09769139a528"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "44421d0e-b146-4d01-8f2b-eec06b5a17b3",
+    "currency": "USD",
+    "created": "1619978316822",
+    "modified": "1619978316822",
+    "is_disputed": false,
+    "status": "Initialized",
+    "possible_next_actions": [{
+            "action": "Credit",
+            "href": "https://api.paymentsos.com/payments/44421d0e-b146-4d01-8f2b-eec06b5a17b3/credits"
+        }, {
+            "action": "Charge",
+            "href": "https://api.paymentsos.com/payments/44421d0e-b146-4d01-8f2b-eec06b5a17b3/charges"
+        }, {
+            "action": "Authorization",
+            "href": "https://api.paymentsos.com/payments/44421d0e-b146-4d01-8f2b-eec06b5a17b3/authorizations"
+        }, {
+            "action": "Update Payment",
+            "href": "https://api.paymentsos.com/payments/44421d0e-b146-4d01-8f2b-eec06b5a17b3"
+        }, {
+            "action": "Authentication",
+            "href": "https://api.paymentsos.com/payments/44421d0e-b146-4d01-8f2b-eec06b5a17b3/authentications"
+        }, {
+            "action": "Risk analysis",
+            "href": "https://api.paymentsos.com/payments/44421d0e-b146-4d01-8f2b-eec06b5a17b3/risk-analyses"
+        }
+    ],
+    "amount": 2000
+}

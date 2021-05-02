@@ -1,0 +1,7 @@
+{
+  "token_type": "credit_card",
+  "credit_card_cvv": "098",
+  "card_number": "4000620000000007",
+  "holder_name": "Santi Logan",
+  "expiration_date": "03/30"
+}
