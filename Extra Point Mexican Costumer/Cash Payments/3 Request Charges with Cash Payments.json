@@ -1,0 +1,9 @@
+{
+  "payment_method": {
+    "source_type": "CASH",
+    "type": "untokenized",
+    "additional_details": {
+      "untokenized_result_status": "succeed"
+    }
+  }
+}
